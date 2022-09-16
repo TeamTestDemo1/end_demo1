@@ -4,118 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebe11869-a275-413a-9a53-493a64e7c07f" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1786befd-ce7f-410c-bfaa-b98a45fd10f4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1786befd-ce7f-410c-bfaa-b98a45fd10f4/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1786befd-ce7f-410c-bfaa-b98a45fd10f4/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1786befd-ce7f-410c-bfaa-b98a45fd10f4/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ac896d2-bd6b-4b88-9caf-e63614d871f7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ac896d2-bd6b-4b88-9caf-e63614d871f7/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ac896d2-bd6b-4b88-9caf-e63614d871f7/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ac896d2-bd6b-4b88-9caf-e63614d871f7/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/common/AuthInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/common/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/common/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/common/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/common/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/common/handler/ListHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/FileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/LogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/MessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/NoticeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/PermissionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dto/FileVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Notice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Permission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exception/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mapper/LogMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mapper/MessageMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mapper/NoticeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mapper/PermissionMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mapper/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/LogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/NoticeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/PermissionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/Log.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/Notice.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/Permission.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/Role.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/User.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/common/AuthInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/common/CorsConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/common/MybatisPlusConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/common/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/common/WebMvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/common/handler/ListHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/FileController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/LogController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/MessageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/NoticeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/PermissionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/dto/FileVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/entity/Log.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/entity/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/entity/Notice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/entity/Permission.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/exception/CustomException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/exception/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/mapper/LogMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/mapper/MessageMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/mapper/NoticeMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/mapper/PermissionMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/mapper/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/LogService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/MessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/NoticeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/PermissionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/Log.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/Notice.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/Permission.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/Role.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/User.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ebe11869-a275-413a-9a53-493a64e7c07f" name="变更" comment="第一次提交后端代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2A0jXTLY9l753lFVspZFptZbi8a" />
@@ -177,8 +90,16 @@
       <workItem from="1663036079369" duration="1788000" />
       <workItem from="1663153896674" duration="5000" />
       <workItem from="1663246270559" duration="14000" />
-      <workItem from="1663314482726" duration="1784000" />
+      <workItem from="1663314482726" duration="2084000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交后端代码">
+      <created>1663316686582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663316686582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,10 +110,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="luo" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交后端代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交后端代码" />
   </component>
 </project>
